@@ -23,7 +23,8 @@ Returns reversed text.
 
 print(reverse_read(
     "text",
-    "side" # <0 or 1>
+    "side", # <0 or 1>
+    "sensible" # <True or False>
 ))
 ```
 
